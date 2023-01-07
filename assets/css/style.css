@@ -268,7 +268,11 @@ section {
     HEADER STYLES
 ==================================================*/
 #home {
-    padding:40px 40px 120px 40px;
+   
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
     
    
 }
