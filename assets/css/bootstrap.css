@@ -129,13 +129,13 @@ label {
     display: none;
   }
 }
-.navbar-nav {
-  margin: 7.5px -15px;
-}
+
 
   .navbar-right {
     float: right !important;
+    margin-right: 100px;
   }
+
 
 .navbar-form {
   padding: 10px 15px;
